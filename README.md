@@ -1,5 +1,5 @@
 # Gulp
-![Gulp Pug Sass](logo-build.jpg)
+![Gulp Pug Sass](./logo-build.jpg)
 
 *To build the project*
 
