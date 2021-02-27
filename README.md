@@ -1,6 +1,7 @@
 # gulp-sass-pug
-`` javascript
-if (isAwesome) {
-  вернуть истину
-}
-`` ''
+``
+npm i
+``
+``
+npm start
+``
