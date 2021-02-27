@@ -1,5 +1,5 @@
 # Gulp
-![Gulp Pug Sass](https://drive.google.com/file/d/18I-U2GX1HQl0V7A3AUNmem9EYmPvx1Dh/view?usp=sharing)
+![Gulp Pug Sass](https://miro.medium.com/max/600/1*riaSTUNDrUA8r9m1X-WjnA.png)
 
 *To build the project*
 
