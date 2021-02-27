@@ -1,5 +1,5 @@
 # Gulp
-![Gulp Pug Sass](https://miro.medium.com/max/600/1*riaSTUNDrUA8r9m1X-WjnA.png)
+![Gulp Pug Sass](https://github.com/ilkrbk/gulp-sass-pug/blob/main/logo-builg.jpg)
 
 *To build the project*
 
